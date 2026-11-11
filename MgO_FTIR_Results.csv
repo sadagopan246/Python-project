@@ -1,0 +1,6 @@
+Assignment,Band (cm-1),Transmittance (%),Absorbance,Minimum at (cm-1),Absorbance at Min
+O-H stretching (adsorbed water),3640,99.75,0.0011,3580,0.0012
+Atmospheric CO2,2350,99.42,0.0025,2350,0.0025
+Adsorbed carbonates,1438,97.72,0.01,1440,0.01
+Mg-O-Mg stretching,859,99.74,0.0011,890,0.0033
+Mg-O stretching,500-650,90.7,0.0424,510,0.0424
